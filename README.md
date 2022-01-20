@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Secret.
 <!--
 **SecretSun/SecretSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+DBA K8s is better, K8s DB is better. Know some cloud native, can write a little code, soon unemployed SRE engineer.
+
+Skills: K8s / Go / Python / Aws / Database...
+
+- 🌱 I’m currently learning Computer Systems: A Programmer's Perspective, Computer Organization and Design: The Hardware/Software Interface...
+- 🔭 [个人简书](https://www.jianshu.com/u/d5f53b5bd859)
+- 🔭 
