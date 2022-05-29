@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-DBA K8s is better, K8s DB is better. Know some cloud native, can write a little code, soon unemployed SRE engineer.
+DBA K8s is better, K8s DB is better. Know some cloud native, can write a little code but not very well, soon unemployed SRE engineer.
 
 Skills: MySQL / Kafka / K8s / Go / Python / Aws / Database...
 
