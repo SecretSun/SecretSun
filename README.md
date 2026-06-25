@@ -22,4 +22,4 @@ Skills: K8s / GPU / Kubeflow / Triton Inference Server / vLLM / Python / Go / My
 - [Alibaba Cloud MVP](https://mvp.aliyun.com/mvp/detail/514?spm=5176.10676864.list.3.486b185cww7H7F)
 - 💬 [个人简书](https://www.jianshu.com/u/d5f53b5bd859)
 
-![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/13063012/150280362-3b5750e2-2505-4925-9b4e-02c18c7a57ca.png)
+![扫码_搜索联合传播样式-白色版](https://github.com/user-attachments/assets/3eb70abb-9be7-4108-aec1-edb16e56ad6c)
